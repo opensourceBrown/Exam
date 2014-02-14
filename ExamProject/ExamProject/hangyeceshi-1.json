@@ -1,0 +1,413 @@
+{
+    "title": "榆林市行业健康知识测试卷",
+    "id": "5",
+    "description": "此套试题是榆林市行业健康知识...",
+    "creator": "榆林市健教所",
+    "totalTime": "45",
+    "totalScore": "150",
+    "topicCount": "15",
+    "passingScore": "90",
+    "eliteScore": "127",
+    "topicList": [
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．多吃鱼、肉类等荤食品",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．荤素、粗细搭配,多吃新鲜水果",
+                    "isCorrect": true,
+                    "isSelected": false
+                },
+                {
+                    "content": "C．长年吃素",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "D．不知道",
+                    "isCorrect": false,
+                    "isSelected": false
+                }
+            ],
+            "question": "人体合理膳食的原则之一是(   )",
+            "image": "",
+            "id": 71,
+            "type": 1,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．麻疹",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．痢疾",
+                    "isCorrect": true,
+                    "isSelected": false
+                },
+                {
+                    "content": "C．糖尿病",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "D．不知道",
+                    "isCorrect": false,
+                    "isSelected": false
+                }
+            ],
+            "question": "吃腐败不洁的食物容易发生什么疾病(   )",
+            "image": "",
+            "id": 72,
+            "type": 1,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．身体强壮,没有疾病",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．能吃、能睡、活动自如",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "C．不知道",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "D．健康不仅仅是没有疾病和不虚弱,而且是身体上、心理上和社会适应能力上三方面的完美状态",
+                    "isCorrect": true,
+                    "isSelected": false
+                }
+            ],
+            "question": "健康就是指(   )",
+            "image": "",
+            "id": 73,
+            "type": 1,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．膀胱、心脏",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．肝、脑、胃、肠等多种器官",
+                    "isCorrect": true,
+                    "isSelected": false
+                },
+                {
+                    "content": "C．甲状腺、淋巴系统",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "D．心脏、肺",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "E．不知道",
+                    "isCorrect": false,
+                    "isSelected": false
+                }
+            ],
+            "question": "酗酒对人体哪些脏器有危害(   )",
+            "image": "",
+            "id": 74,
+            "type": 1,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．空气、水、饮食",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．性接触、血液、母婴",
+                    "isCorrect": true,
+                    "isSelected": false
+                },
+                {
+                    "content": "C．接吻、拥抱、握手",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "D．不知道",
+                    "isCorrect": false,
+                    "isSelected": false
+                }
+            ],
+            "question": "艾滋病的传播途径有（　　）。",
+            "image": "",
+            "id": 75,
+            "type": 1,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．消化系统",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．呼吸系统",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "C．神经系统",
+                    "isCorrect": true,
+                    "isSelected": false
+                }
+            ],
+            "question": "毒品进入人体后主要作用于人的（　　），产生毒性作用。",
+            "image": "",
+            "id": 76,
+            "type": 1,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．眼比屏幕稍高一些",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．屏幕比眼稍高一些",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "C．两者等高",
+                    "isCorrect": true,
+                    "isSelected": false
+                }
+            ],
+            "question": "为了预防近视，看电视时眼与屏幕的高度最好是（）。",
+            "image": "",
+            "id": 77,
+            "type": 1,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．甲型肝炎",
+                    "isCorrect": true,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．乙型肝炎",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "C．肾炎",
+                    "isCorrect": false,
+                    "isSelected": false
+                }
+            ],
+            "question": "不在街边小铺吃未经严格消毒的食品，有利于预防 （  ）疾病。",
+            "image": "",
+            "id": 78,
+            "type": 1,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．晚上10点到清晨6点",
+                    "isCorrect": true,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．晚上11点到清晨7点",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "C．晚上12点到清晨8点",
+                    "isCorrect": false,
+                    "isSelected": false
+                }
+            ],
+            "question": "成人最佳睡眠时间是什么时候？",
+            "image": "",
+            "id": 79,
+            "type": 1,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．佝偻病",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．缺铁性贫血",
+                    "isCorrect": true,
+                    "isSelected": false
+                },
+                {
+                    "content": "C．脚气病",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "D．夜盲症",
+                    "isCorrect": false,
+                    "isSelected": false
+                }
+            ],
+            "question": "缺铁会引起（  ）",
+            "image": "",
+            "id": 80,
+            "type": 1,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．对",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．错",
+                    "isCorrect": true,
+                    "isSelected": false
+                }
+            ],
+            "question": "保健食品不能代替药品治疗。",
+            "image": "",
+            "id": 81,
+            "type": 3,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．对",
+                    "isCorrect": true,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．错",
+                    "isCorrect": false,
+                    "isSelected": false
+                }
+            ],
+            "question": "蔬菜中富含的纤维素也是维持人体健康的营养素之一。",
+            "image": "",
+            "id": 82,
+            "type": 3,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．对",
+                    "isCorrect": false,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．错",
+                    "isCorrect": true,
+                    "isSelected": false
+                }
+            ],
+            "question": "油炸食物营养丰富宜多食用。",
+            "image": "",
+            "id": 83,
+            "type": 3,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．对",
+                    "isCorrect": true,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．错",
+                    "isCorrect": false,
+                    "isSelected": false
+                }
+            ],
+            "question": "肥胖症与成年人糖尿病、高血压有关。",
+            "image": "",
+            "id": 84,
+            "type": 3,
+            "paperid": 5,
+            "value": 10
+        },
+        {
+            "analysis": "这是答案分析内容，在显示单条题目时显示此内容。",
+            "answerList": [
+                {
+                    "content": "A．对",
+                    "isCorrect": true,
+                    "isSelected": false
+                },
+                {
+                    "content": "B．错",
+                    "isCorrect": false,
+                    "isSelected": false
+                }
+            ],
+            "question": "酒精对肝脏的损害最为严重，易引起酒精中毒性肝炎。",
+            "image": "",
+            "id": 85,
+            "type": 3,
+            "paperid": 5,
+            "value": 10
+        }
+    ]
+}
